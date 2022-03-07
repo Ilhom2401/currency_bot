@@ -1,0 +1,37 @@
+[
+  {
+    "name": "𝑰𝒍𝒉𝒐𝒎𝒋𝒐𝑵",
+    "phoneNumber": "",
+    "username": "ilhom2401",
+    "chatId": "1946764379",
+    "state": "CHOOSE_CURRENCY",
+    "role": "USER",
+    "isAdmin": false,
+    "id": "6fd39d1b-d66e-4866-a1fa-0246767bdb01",
+    "isActive": true,
+    "createdDate": "2021-12-24T02:28:55.426643900"
+  },
+  {
+    "name": "𝑰𝒍𝒉𝒐𝒎𝒋𝒐𝑵",
+    "phoneNumber": "",
+    "username": "i_ilhomjaN",
+    "chatId": "807811964",
+    "state": "COURSE_INFORMATION",
+    "role": "USER",
+    "isAdmin": false,
+    "id": "39621c8e-3120-42b2-96c9-9ca04b40e568",
+    "isActive": true,
+    "createdDate": "2021-12-24T03:27:58.860932600"
+  },
+  {
+    "name": "Azimbek",
+    "phoneNumber": "",
+    "chatId": "1918587119",
+    "state": "REGISTER",
+    "role": "USER",
+    "isAdmin": false,
+    "id": "68980aa8-67e4-43f2-b1ff-1efd51da8105",
+    "isActive": true,
+    "createdDate": "2022-02-03T01:00:14.674592800"
+  }
+]

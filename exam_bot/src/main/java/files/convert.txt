@@ -1,0 +1,22 @@
+[
+  {
+    "chatId": "807811964",
+    "username": "converter01_bot",
+    "to": "EUR",
+    "from": "USD",
+    "amount": "100",
+    "id": "9900c91a-5a16-4b7b-ab5c-b4b6e01f88df",
+    "isActive": true,
+    "createdDate": "2021-12-24T02:23:16.734742300"
+  },
+  {
+    "chatId": "1946764379",
+    "username": "converter01_bot",
+    "to": "EUR",
+    "from": "USD",
+    "amount": "100",
+    "id": "431264c0-17c0-457f-849d-33deaaec0e55",
+    "isActive": true,
+    "createdDate": "2021-12-24T02:30:16.853095500"
+  }
+]
